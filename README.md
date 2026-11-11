@@ -1,6 +1,25 @@
 <!-- 中文说明开始 -->
 # 📖 中文详细说明（paperclip）
 
+<!-- 徽章区开始 -->
+<p align="center">
+  <a href="https://github.com/aiwozhonghua81/paperclip"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-aiwozhonghua81-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img alt="最近提交" src="https://img.shields.io/github/last-commit/aiwozhonghua81/paperclip?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4">
+  <img alt="主语言" src="https://img.shields.io/github/languages/top/aiwozhonghua81/paperclip?style=flat-square&label=%E4%B8%BB%E8%AF%AD%E8%A8%80">
+  <img alt="星标" src="https://img.shields.io/github/stars/aiwozhonghua81/paperclip?style=flat-square&label=%E6%98%9F%E6%A0%87">
+  <img alt="仓库体积" src="https://img.shields.io/github/repo-size/aiwozhonghua81/paperclip?style=flat-square&label=%E4%BB%93%E5%BA%93%E4%BD%93%E7%A7%AF">
+  <img alt="许可证" src="https://img.shields.io/github/license/aiwozhonghua81/paperclip?style=flat-square&label=%E8%AE%B8%E5%8F%AF%E8%AF%81">
+</p>
+<p align="center">
+  <img alt="中文说明" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E-%E5%B7%B2%E5%AE%8C%E6%95%B4%E8%A6%86%E7%9B%96-brightgreen?style=flat-square">
+  <img alt="给新手看" src="https://img.shields.io/badge/%E7%BB%99%E6%96%B0%E6%89%8B%E7%9C%8B-%E4%B8%8D%E7%94%A8%E6%87%82%E4%BB%A3%E7%A0%81-blue?style=flat-square">
+  <img alt="配图" src="https://img.shields.io/badge/%E9%85%8D%E5%9B%BE-%E5%AE%9E%E6%8B%8D%E6%88%AA%E5%9B%BE%E4%B8%8E%E5%A4%B4%E5%9B%BE-ff69b4?style=flat-square">
+</p>
+<p align="center">
+  <img src="doc/assets/banner.jpg" alt="paperclip 头图" width="880">
+</p>
+<!-- 徽章区结束 -->
+
 > **阅读顺序说明**：本文件最上面这一大段是**中文详细说明**，用大白话写给第一次接触这个项目的人；下面从 `---` 之后开始，是**上游项目原封不动的原始 README**，一字未删、未改写。
 >
 > 只想看官方原始文档，可以直接跳到下半部分。
@@ -568,7 +587,23 @@ git checkout-index -a -f    # 把 13319 个文件全部检出到工作区
 │   ├── 5️⃣ 常见问题 / 注意事项
 │   ├── 6️⃣ 目录结构速览
 │   └── 7️⃣ 本仓库说明（Fork 信息）  ← 你正在看的最后一段
-├── <!-- 中文说明结束 -->
+├── 
+## 🖼️ 界面截图一览
+下面这些图都是**这个仓库里原本就带的真实截图**，不是画的示意图：
+
+**① 项目横幅**
+
+<img src="doc/assets/banner.jpg" alt="项目横幅" width="820">
+
+**② 执行恢复：任务完成**
+
+<img src="doc/assets/execution-recovery/fixture-completed.png" alt="执行恢复：任务完成" width="820">
+
+**③ 执行恢复：任务列表**
+
+<img src="doc/assets/execution-recovery/quiet-task-list.png" alt="执行恢复：任务列表" width="820">
+
+<!-- 中文说明结束 -->
 │
 ├── （分隔线）
 │
